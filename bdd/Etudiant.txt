@@ -1,0 +1,12 @@
+Nom,Prenom,Age,Sexe
+Rams,Lova,20,H
+Rand,Jim,20,H
+Rams,Meva,16,F
+Tafita,Soa,19,H
+Morel,Ben,19,H
+Iante,Mendrika,17,F
+Test,Vest,98,H
+Fandresena,Nomena,18,F
+Sitraka,Lalaina,19,F
+Fandresena,Nomena,18,F
+Fandresena,Nomena,18,F

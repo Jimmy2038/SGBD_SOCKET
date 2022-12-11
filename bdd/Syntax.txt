@@ -1,0 +1,31 @@
+//Insert 
+Syntax:ampidiro att1,att2,...,attn tab
+exemple:ampidiro Fandresena,Nomena,18,F Etudiant
+
+//Select*
+Syntax:alaivo_rehetra tab
+exemple:alaivo_rehetra Etudiant
+
+//projection
+Syntax:alaivo nom,age,sex tab
+exemple:alaivo Nom,Age Personne
+ 				
+//Union
+atambaro tab1 tab2
+exemple:atambaro Etudiant Personne
+					
+//intersection
+Syntax: intersection tab1 tab2					
+exemple:intersection Etudiant Personne
+
+//difference
+Syntax: mifanala tab1 tab2					
+exemple:mifanala Etudiant Personne
+
+//poduit_cartesienne
+Syntax: cartesienne tab1 tab2					
+exemple:cartesienne Etudiant Personne
+
+//Tetha_Join
+Syntax: ampifandraiso eto ampitahaina1=ampitahaina2 tab1 tab2 	
+exemple:ampifandraiso eto Nom=Nom Etudiant Personne

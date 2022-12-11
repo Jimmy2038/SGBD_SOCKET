@@ -1,0 +1,4 @@
+Nom,Prenom,Age,Sexe
+Rams,Lova,20,H
+Rand,Jim,20,H
+Andria,Fex,22,H
